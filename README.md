@@ -1,1 +1,1 @@
-https://webappfirstone.netlify.app/
+https://karthiphotography.netlify.app/
